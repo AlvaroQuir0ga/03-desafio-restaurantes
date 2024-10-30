@@ -1,5 +1,6 @@
 body {  
-    background-color: rgb(57, 148, 135) ;
+    background-color: rgb(57, 148, 135) ; 
+    text-align: center;
 } 
 
 h1 {    
@@ -8,4 +9,15 @@ h1 {
     color: #f9ea48 ; 
     text-align: center; 
 } 
+
+img {
+    border: solid rgb(255, 255, 255) 10px; 
+    margin-right: 10px; 
+    margin-bottom: 5px; 
+   
+}
+
+#img-barcelona {
+    margin-left: 30px;
+}
 
